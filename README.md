@@ -1,1 +1,5 @@
-本项目基于vscode的cmake项目骨架，提供初始的编译配置
+本项目基于vscode的cmake项目骨架。
+
+# 常用快捷键
+
+## cmake-tools
